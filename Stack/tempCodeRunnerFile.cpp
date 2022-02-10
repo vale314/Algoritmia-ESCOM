@@ -1,6 +1,1 @@
-             // if(c == v.top()){
-                    
-                //     find = true;
-
-                //     break;
-                // }
+a[i], i == sz -1 ? '\n' : ' '

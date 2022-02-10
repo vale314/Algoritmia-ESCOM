@@ -5,6 +5,8 @@ using namespace std;
 
 vector<int> solve(vector<int>& nums, int k) {
     
+    vector <int> w;
+
     for(int i = 0; i < nums.size(); i++){
         cout << nums[i] << " ";
     }
